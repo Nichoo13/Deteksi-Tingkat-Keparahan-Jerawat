@@ -23,4 +23,4 @@ Aplikasi ini dibangun menggunakan alat-alat canggih namun efisien:
 - **OpenCV (`cv2`):** Untuk memproses dan menganalisis piksel gambar secara mendalam.
 
 ## 🚀 Cara Menjalankan Aplikasi Secara Lokal
-Cara menjalankannya bisa dibaca pada ```How_to_run_in_local.txt```
+Cara menjalankannya bisa dibaca [disini](how_to_run_in_local.txt).
