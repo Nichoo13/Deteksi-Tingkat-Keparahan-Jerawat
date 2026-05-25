@@ -1,4 +1,3 @@
-```markdown
 # 🌟 Deteksi Tingkat Keparahan Jerawat (Acne Severity Detection)
 
 Selamat datang di repositori **Deteksi Tingkat Keparahan Jerawat**! 
@@ -25,4 +24,3 @@ Aplikasi ini dibangun menggunakan alat-alat canggih namun efisien:
 
 ## 🚀 Cara Menjalankan Aplikasi Secara Lokal
 Cara menjalankannya bisa dibaca pada ```How_to_run_in_local.txt```
-```
