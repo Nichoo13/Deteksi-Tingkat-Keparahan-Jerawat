@@ -5,5 +5,3 @@ joblib
 ultralytics
 scikit-learn
 Pillow
-matplotlib
-pandas
