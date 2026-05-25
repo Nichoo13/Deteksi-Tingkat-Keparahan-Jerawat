@@ -1,0 +1,6 @@
+names:
+- jerawat
+nc: 1
+path: d:\Project\Python\Acne_dataset_analysis\data
+train: train_prep/images
+val: valid_prep/images

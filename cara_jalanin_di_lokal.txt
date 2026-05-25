@@ -1,0 +1,5 @@
+# install di python buat streamlitnya
+pip install streamlit
+
+# jalanin streamlit
+streamlit run app.py
