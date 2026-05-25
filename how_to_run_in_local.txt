@@ -1,0 +1,8 @@
+# install requirement notebook
+pip install -r requirements_for_notebook
+
+# install requirements streamlit
+pip install -r requirements
+
+# run streamlit
+streamlit run app.py
