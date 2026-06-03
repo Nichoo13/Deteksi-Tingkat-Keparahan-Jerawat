@@ -8,3 +8,4 @@ Pillow
 matplotlib
 pandas
 seaborn
+xgboost
